@@ -1,2 +1,2 @@
 # data_collection
-capstone
+capstone project on data collection with spaceX api
